@@ -1,16 +1,18 @@
-### Hi there 👋
+###Hi there!
 
-<!--
-**jameskeywood/jameskeywood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Come and check out my profile, hopefully you like some of my repositories.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In the past I have made programs for:
+- Linux systems
+- Discord API
+- Raspberry Pi
+
+---
+
+I try to be competent in the following languages:
+- Python
+- C
+- C++
+- Bash
