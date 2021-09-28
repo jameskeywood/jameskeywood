@@ -14,7 +14,7 @@ I try to be competent in the following languages:
 - Bash
 
 Currently I'm working on the following repositories:
-- (./cybertank)
-- /geno
+- [cybertank](https://github.com/jameskeywood/cybertank)
+- [geno](https://github.com/jameskeywood/geno)
 
 ---
