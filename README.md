@@ -18,5 +18,3 @@ Currently I'm working on the following repositories:
 - /geno
 
 ---
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
