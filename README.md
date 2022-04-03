@@ -18,6 +18,6 @@ Currently I'm working on the following repositories:
 - [geno](https://github.com/jameskeywood/geno)
 - [webgl](https://github.com/jameskeywood/webgl)
 
-My current WebGL game is hosted [here](https://jameskeywood.github.io/webgl/)
+My current WebGL game is hosted on [this](https://jameskeywood.github.io/webgl/) GitHub Page.
 
 ---
