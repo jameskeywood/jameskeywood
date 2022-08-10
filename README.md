@@ -20,4 +20,7 @@ Currently I'm working on the following repositories:
 
 My current WebGL game is hosted on [this](https://jameskeywood.github.io/webgl/) GitHub Page.
 
+At the moment I am spending most of my time on my computer science A-level coursework.
+This is not being developed on GitHub, but snippets may be displayed on my WebGL page.
+
 ---
