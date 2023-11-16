@@ -13,14 +13,7 @@ I usually make programs in the following languages:
 - C#
 - Bash
 
-Currently I'm working on the following repositories:
-- [cybertank](https://github.com/jameskeywood/cybertank)
-- [geno](https://github.com/jameskeywood/geno)
-- [webgl](https://github.com/jameskeywood/webgl)
-
-My current WebGL game is hosted on [this](https://jameskeywood.github.io/webgl/) GitHub Page.
-
-At the moment I am spending most of my time on my computer science A-level coursework.
-This is not being developed on GitHub, but snippets may be displayed on my WebGL page.
+At the moment, I am studying Computer Science at the University of Manchester.
+Most of the work that I am doing is hosted on GitLab.
 
 ---
