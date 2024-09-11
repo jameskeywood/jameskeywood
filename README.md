@@ -4,7 +4,7 @@
 
 My name is James Keywood.
 
-Enjoy my profile.
+Take a look around my profile.
 
 ---
 
